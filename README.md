@@ -7,11 +7,12 @@ Guidance for using (or reminding yourself how to use) govcookiecutter
 
 ## Deps
 
-``
+```
 Cookiecutter 2.1.1
 Govcookiecutter 1.3.1
 pre-commit 2.20.0
-``
+
+```
 
 ## Intro
 
