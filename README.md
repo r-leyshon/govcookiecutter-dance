@@ -30,8 +30,8 @@ If it’s not your first time setting this up and you setup new repos infrequent
 2. Run `cookiecutter https://github.com/best-practice-and-impact/govcookiecutter.git` and follow the prompts.
 3. Create virtual env
 4. Activate virtual env
-5. Git init
-6. Pre-commit install
+5. `git init`
+6. `pre-commit install`
 7. Make your first commit
 8. Does pre-commit complain about unicode_fun? Go to [Troubleshooting](#unicode_fun)
 9. For packaging purposes, using the new PEP-517 & 518 standard with this [python.org guidance](https://packaging.python.org/en/latest/tutorials/packaging-projects/):
