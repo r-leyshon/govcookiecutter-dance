@@ -26,7 +26,7 @@ If it’s not your first time setting this up and you setup new repos infrequent
 **Note - simpler when following this guide to make your repo locally and push it up to GitHub once finished.**
 
 
-1. In terminal (inert cli of choice), change directory to the parent dir where you would like your new repo to live.
+1. In terminal (insert cli of choice), change directory to the parent dir where you would like your new repo to live.
 2. Run `cookiecutter https://github.com/best-practice-and-impact/govcookiecutter.git` and follow the prompts.
 3. Create virtual env
 4. Activate virtual env
